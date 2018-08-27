@@ -6,6 +6,11 @@ body,html {
 
 p {
   color: #999;
+  font-size: 0.75rem;
+}
+
+h3 {
+  margin: 0;
 }
 
 .container {
@@ -110,12 +115,11 @@ li {
 }
 
 .button-outline {
-  border: 1px solid #ffffff;
+  border: 1px solid #fff;
   background: none;
 }
 
 .ad {
-  /* padding: 10rem 20rem; */
   display: flex;
   justify-content: space-between;
   align-items: center;
